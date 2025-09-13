@@ -21,7 +21,7 @@ CRIADOR:Lucas Lopes Freitas Moura
   - Botões para Connect, Focus, Pause e Resume.
   - Logs em tempo real das ações.
  
-  - 🚀 Como rodar localmente
+Como rodar localmente
 🔧 Pré-requisitos
 
 Docker Desktop
