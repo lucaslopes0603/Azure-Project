@@ -1,5 +1,7 @@
-Este projeto integra **Azure DevOps** com um contador automático de horas de trabalho, ajudando times a manterem as tarefas sempre atualizadas sem precisar editar manualmente os campos de **Remaining Work** e **Completed Work**.
 CRIADOR:Lucas Lopes Freitas Moura
+
+Este projeto integra **Azure DevOps** com um contador automático de horas de trabalho, ajudando times a manterem as tarefas sempre atualizadas sem precisar editar manualmente os campos de **Remaining Work** e **Completed Work**.
+
 ---
 
 ⏱️ Remaining Hours ADO
